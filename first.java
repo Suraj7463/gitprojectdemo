@@ -17,7 +17,7 @@ System.out.println("enter employee id:");
 				}
 				if(flag)
 				{
-					System.out.println("id number "+id+" Employee information deleted successfully");
+					System.out.print("id number "+id+" Employee information deleted successfully");
 				}
 				else
 				{
